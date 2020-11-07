@@ -6,7 +6,9 @@ import { Component, OnInit } from '@angular/core'
     styleUrls: ['./post2.component.scss'],
 })
 export class Post2Component implements OnInit {
+    // tslint:disable-next-line:no-empty
     constructor() {}
 
+    // tslint:disable-next-line:no-empty
     ngOnInit(): void {}
 }
